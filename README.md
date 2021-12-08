@@ -8,8 +8,6 @@ Buscamos para nosso time pessoas com valores como **Integridade**, **Inovação*
 
 ## Você acha que pode ajudas a compor esse time ?
 
-## -
-
 **Vagas**:
 
 - FRONT-END (**ESTAGIO**).
